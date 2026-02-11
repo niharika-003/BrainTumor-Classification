@@ -2,7 +2,7 @@
 
 ##  Project Overview
 This project focuses on **brain tumor classification using MRI images** by applying **deep learning techniques**.  
-The objective is to perform a **comparative analysis of advanced Convolutional Neural Network (CNN) architectures**, specifically **Xception** and **EfficientNet**, to evaluate their effectiveness in classifying different types of brain tumors.
+The objective is to perform a ** advanced Convolutional Neural Network (CNN) architectures**, specifically **Xception** and **EfficientNet**, to evaluate their effectiveness in classifying different types of brain tumors.
 
 This work was carried out as a **final semester project** and later resulted in a **published research paper**.
 
@@ -15,8 +15,7 @@ This project aims to assist medical professionals by providing an **automated an
 ##  Objectives
 - To classify brain MRI images into different tumor categories  
 - To apply **deep learning–based CNN models** for medical image analysis  
-- To perform a **comparative evaluation** of Xception and EfficientNet architectures  
-- To analyze model performance under the same experimental setup  
+- To analyze both model's performance with same training and testing dataset  
 
 ## 🧪 Dataset
 - The dataset consists of **labeled brain MRI images**
